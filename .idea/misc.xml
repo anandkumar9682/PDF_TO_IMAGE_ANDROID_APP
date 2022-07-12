@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Eulerslab/.gradle/caches/transforms-3/f791586eb8e3cddcf33fb36842d7675a/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable-v24/ic_contace.xml" value="0.1205" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable-v24/ic_file.xml" value="0.1205" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable-v24/ic_love.xml" value="0.1205" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable-v24/ic_menu.xml" value="0.1205" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable-v24/rect1.xml" value="0.1205" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable/abcd.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable/ic_love.xml" value="0.1205" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/drawable/rect1.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/layout/act_contact_us.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/layout/activity_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/layout/confirm_document_tool.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/layout/customlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/layout/listview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/layout/mainact.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/layout/vavigation_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/PDF TO IMAGE/app/src/main/res/menu/menu_items.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable-v24/border_blue_trns_rect.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable-v24/border_green_black_rect_r10.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/abc.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/abcd.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/asa.xml" value="0.119" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/border_calculator_gradient_back.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/border_rect.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/document_border_g.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/gradient1.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/ic_baseline_contact_mail_24.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/ic_love.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/ic_setting.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/drawable/rect1.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/act_contact_us.xml" value="0.15" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/act_table_show.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/actcsvviewer.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/activity_csv_viewer.xml" value="0.15548780487804878" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/activity_table_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/confirm_document_tool.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/leaf_docter_loader_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/listview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/loader_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/s.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/layout/vavigation_header.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/CSV viewer/app/src/main/res/menu/menu_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable-v24/border_green_black_rect_r10.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/abcd.xml" value="0.1" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/asa.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/button_shape.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/gradient1.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/ic_baseline_contact_mail_24.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/ic_baseline_contact_page_24.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/ic_love.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/ic_setting.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/drawable/rect1.xml" value="0.106" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/act_contact_us.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/act_table_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/actcsvviewer.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/confirm_document_tool.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/fragment_first.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/listview.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/loader_layout.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/mainact.xml" value="0.22" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/layout/vavigation_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/New folder/pdftoimage2/CSV viewer/app/src/main/res/menu/menu_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/drawable-v24/ic_add_file.xml" value="0.115" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/drawable-v24/ic_contace.xml" value="0.115" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/drawable-v24/ic_email.xml" value="0.115" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/drawable-v24/shape_rd_20.xml" value="0.115" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/drawable-v24/shape_rd_50.xml" value="0.115" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/layout/act_contact_us.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/layout/customlayout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/layout/mainact.xml" value="0.25" />
+        <entry key="..\:/Users/Eulerslab/Desktop/PDF_TO_IMAGE-master/app/src/main/res/layout/vavigation_header.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Hello/Desktop/CSV viewer/app/src/main/res/drawable-v24/border_blue_trns_rect.xml" value="0.103" />
+        <entry key="..\:/Users/Hello/Desktop/CSV viewer/app/src/main/res/drawable-v24/border_green_black_rect_r10.xml" value="0.103" />
+        <entry key="..\:/Users/Hello/Desktop/CSV viewer/app/src/main/res/layout/activity_csv_viewer.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Hello/Desktop/CSV viewer/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Hello/Desktop/CSV viewer/app/src/main/res/layout/confirm_document_tool.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Hello/Desktop/CSV viewer/app/src/main/res/layout/leaf_docter_loader_layout.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
